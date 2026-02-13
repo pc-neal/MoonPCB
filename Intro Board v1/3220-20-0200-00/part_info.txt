@@ -1,0 +1,9 @@
+Manufacturer=CNC Tech
+PartNumber=3220-20-0200-00
+PartCategory=Connector
+PackageCategory=Other
+PinCount=20
+Version=1.4
+Released=2024-11-16 07:38:50
+Downloaded=2025-11-15 01:19:29
+3D=Y

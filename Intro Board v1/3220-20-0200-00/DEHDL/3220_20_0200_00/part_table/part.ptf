@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '3220_20_0200_00'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CNC Tech", "3220-20-0200-00" (!) = "", "322020020000", "Other", "3220-20-0200-00", "https://www.arrow.com/en/products/3220-20-0200-00/cnc-tech-llc?region=nac", "Connector Header Through Hole, Right Angle 20 position 0.050" (1.27mm)", "https://www.arrow.com/en/products/3220-20-0200-00/cnc-tech-llc?region=nac", "5.35 mm"
+END_PART
+
+END.
